@@ -1,0 +1,10 @@
+pundit 50
+input 30
+dint 10
+dipt 10
+duit 10
+dunt 10
+pint 10
+ptui 10
+punt 10
+unit 10
